@@ -1,4 +1,4 @@
-# Sambhāṣa! — Student Course Feedback System
+# Sandarbh — Student Course Feedback System
 
 A secure full-stack student course feedback application where students can sign up, log in, submit ratings & feedback on courses, manage their profile (with optional profile picture upload), and admins can manage users, courses, and analyze feedback trends.
 
